@@ -70,5 +70,5 @@ Verificación final
 - Pruebas automatizadas: npm run test:run. Resultado: 8 pruebas aprobadas en 2 archivos.
 - Build: npm run build finalizó correctamente. Se mostraron advertencias no bloqueantes de React Router.
 - Preview: se comprobó la carga de la aplicación, los precios en USD, la búsqueda, la validación del formulario, el filtro de favoritos, la navegación al detalle, la persistencia de favoritos y el regreso al listado. También se revisaron los tamaños de 375 y 1280 píxeles.
-- API: durante una comprobación posterior, CoinGecko respondió HTTP 429 y la aplicación mostró el estado de error previsto. Queda pendiente repetir la consulta real en EUR y ARS cuando la API permita realizar nuevas solicitudes.
+- API: durante una comprobación posterior, CoinGecko respondió y la aplicación mostró el estado de error previsto. Queda pendiente repetir la consulta real en EUR y ARS cuando la API permita realizar nuevas solicitudes.
 - Despliegue: realizado en Vercel. Falta completar la comprobación en producción de la recarga directa de una ruta de detalle y repetir las verificaciones de la API en la URL pública.
