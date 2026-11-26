@@ -41,7 +41,7 @@ Al importar el repositorio en Vercel, selecciona como Root Directory la carpeta 
 - Output Directory: `dist`.
 - Install Command: `npm install`.
 
-URL pública de Vercel: **pendiente de completar después del despliegue**.
+URL pública de Vercel: **https://pulso-abierto-rho.vercel.app/**.
 
 ## Mejora de mantenibilidad
 
